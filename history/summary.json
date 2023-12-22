@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 248,
-    "timeWeek": 245,
-    "timeMonth": 264,
-    "timeYear": 265,
+    "time": 263,
+    "timeDay": 191,
+    "timeWeek": 243,
+    "timeMonth": 267,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,17 @@
     "url": "https://www.f3.to/cellsol",
     "icon": "https://icons.duckduckgo.com/ip3/www.f3.to.ico",
     "slug": "cell-sol",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 482,
-    "timeDay": 336,
-    "timeWeek": 378,
-    "timeMonth": 476,
-    "timeYear": 482,
-    "dailyMinutesDown": {
-      "2023-12-21": 11
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 493,
+    "timeWeek": 412,
+    "timeMonth": 472,
+    "timeYear": 483,
+    "dailyMinutesDown": {}
   }
 ]
