@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.robots-everywhere.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "54.37%",
+    "uptime": "54.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.37%",
+    "uptimeYear": "54.31%",
     "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-07-05": 50,
+      "2024-07-05": 410,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -130,7 +130,7 @@
     "url": "https://www.f3.to/cellsol",
     "icon": "https://icons.duckduckgo.com/ip3/www.f3.to.ico",
     "slug": "cell-sol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -142,6 +142,7 @@
     "timeMonth": 457,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-01-16": 85,
       "2024-01-15": 0
     }
